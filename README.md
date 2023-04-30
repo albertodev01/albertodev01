@@ -2,10 +2,10 @@
 
 I'm a senior software engineer at [Superformula](https://www.superformula.com/) working with Dart and Flutter! 
 
- - 💻 I really like Dart, Flutter, C# and Delphi
+ - 💻 I really like Dart, Flutter and Delphi
  - 💬 Ask me about [Flutter](https://flutter.dev) and [Dart](https://dart.dev)
  - ⚡ Fun fact: I am a Nintendo games lover!
- - 💙 I am a Google Developer Expert ([GDE](https://developers.google.com/community/experts/directory/profile/profile-alberto-miola)) in Dart and Flutter
+ - 💙 I am a Google Developer Expert ([GDE](https://developers.google.com/community/experts/directory/profile/profile-alberto-miola)) for Dart and Flutter
 
 I have also published some books:
 
